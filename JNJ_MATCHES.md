@@ -1,6 +1,6 @@
 # J&J roles matching your filters
 
-Updated 2026-10-07T07:42:11.951Z
+Updated 2026-10-07T15:30:33.842Z
 
 - [Communications & Public Affairs Manager, EP & Neuro, EMEA](https://jj.wd5.myworkdayjobs.com/en-US/JJ/job/Prague-Czechia/Senior-Manager--EMEA-EP-Neuro-Communications---Public-Affairs_R-100070) | Prague, Czechia; Pomezia, Roma, Italy; Issy-les-Moulineaux, France; Norderstedt, Schleswig-Holstein, Germany; Madrid, Spain; Beerse, Antwerp, Belgium | Hybrid Work
 - [Manager Regulatory Medical Writing X-TA](https://jj.wd5.myworkdayjobs.com/en-US/JJ/job/Leiden-South-Holland-Netherlands/Manager-Regulatory-Medical-Writing-X-TA_R-091731) | Leiden, South Holland, Netherlands; Issy-les-Moulineaux, France; Beerse, Antwerp, Belgium; Neuss, North Rhine-Westphalia, Germany | Hybrid Work
