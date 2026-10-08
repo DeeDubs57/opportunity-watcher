@@ -1,6 +1,6 @@
 # J&J roles matching your filters
 
-Updated 2026-10-08T14:52:51.363Z
+Updated 2026-10-08T20:40:31.351Z
 
 - [Manager Regulatory Medical Writing X-TA](https://jj.wd5.myworkdayjobs.com/en-US/JJ/job/Leiden-South-Holland-Netherlands/Manager-Regulatory-Medical-Writing-X-TA_R-091731) | Leiden, South Holland, Netherlands; Issy-les-Moulineaux, France; Beerse, Antwerp, Belgium; Neuss, North Rhine-Westphalia, Germany | Hybrid Work
 - [Manager Medical Affairs International (m/f/d)](https://jj.wd5.myworkdayjobs.com/en-US/JJ/job/Hamburg-Hamburg-Germany/Manager-Medical-Affairs-International_R-097754) | Hamburg, Hamburg, Germany; Wokingham, Berkshire, United Kingdom; Diegem, Flemish Brabant, Belgium | Fully Remote
