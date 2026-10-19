@@ -7114,5 +7114,125 @@
  },
  "/job/Beijing-China/Sr-Local-Trial-Manager_R-104488": {
   "skip": true
+ },
+ "/job/Mexico-City-Mexico/Product-Manager-Alta-Especialidad---CDMX_R-104665": {
+  "skip": true
+ },
+ "/job/New-Jersey-Any-City/Sr-Medical-Science-Liaison---Hematology---New-Jersey_R-104424-1": {
+  "skip": true
+ },
+ "/job/Porto-Alegre-RS-Brazil/MSL-I---Rio-de-Janeiro-RJ-or-Porto-Alegre-RS_R-105148-1": {
+  "skip": true
+ },
+ "/job/Bogot-Distrito-Capital-Colombia/Fleet-Regional-Operations-Associate_R-105609": {
+  "skip": true
+ },
+ "/job/Raynham-Massachusetts-United-States-of-America/Senior-Sales-Consultant--Sports-Medicine--Greenville--SC----Johnson---Johnson-MedTech--Orthopaedics_R-105476-1": {
+  "skip": true
+ },
+ "/job/Irvine-California-United-States-of-America/Clinical-Research-Leader_R-089805-1": {
+  "skip": true
+ },
+ "/job/Connecticut-Any-City/Job-Posting-Title-Rare-Disease-Account-Manager--Immunology-Autoantibody-Diseases--Springfield--CT-_R-104924-1": {
+  "skip": true
+ },
+ "/job/Atlanta-Georgia-United-States/Sr-Ultrasound-Clinical-Account-Specialist--Cardiac-Sonographer--Atlanta--GA----Johnson-and-Johnson-MedTech--Structural-Heart_R-094599": {
+  "skip": true
+ },
+ "/job/Buffalo-New-York-United-States/Job-Posting-Title-Rare-Disease-Account-Manager--Immunology-Autoantibody-Diseases--Buffalo--NY-_R-104963-1": {
+  "skip": true
+ },
+ "/job/Sarasota-Florida-United-States/Rare-Disease-Account-Manager--Immunology-Autoantibody-Diseases--Cape-Coral--FL-_R-104928-1": {
+  "skip": true
+ },
+ "/job/New-York-New-York-United-States/Regional-Clinical-Sales-Specialist--Spine--New-York-Metropolitan----Johnson---Johnson-MedTech--Orthopaedics_R-105204-1": {
+  "skip": true
+ },
+ "/job/Evansville-Indiana-United-States/Sales-Consultant--Foot---Ankle--Evansville--IN----Johnson---Johnson-MedTech--Orthopaedics_R-105500-1": {
+  "skip": true
+ },
+ "/job/Albany-New-York-United-States-of-America/Senior-Oncology-Sales-Specialist--Solid-Tumor--Albany--NY----Johnson---Johnson-Innovative-Medicine_R-104977-1": {
+  "skip": true
+ },
+ "/job/Albany-New-York-United-States-of-America/Senior-Oncology-Sales-Specialist--Solid-Tumor--Albany--NY----Johnson---Johnson-Innovative-Medicine_R-104975-2": {
+  "skip": true
+ },
+ "/job/Camden-New-Jersey-United-States/Field-Reimbursement-Access-Manager-Oncology--Philadelphia-South-Jersey-_R-104992-1": {
+  "skip": true
+ },
+ "/job/Leiden-South-Holland-Netherlands/Deploy-Experienced-Analyst---Transportation-Management_R-104981": {
+  "title": "Deploy Experienced Analyst - Transportation Management",
+  "locs": "Leiden, South Holland, Netherlands; Latina, Italy; Ringaskiddy, Cork, Ireland",
+  "remote": "Hybrid Work",
+  "posted": "Posted Today",
+  "url": "https://jj.wd5.myworkdayjobs.com/en-US/JJ/job/Leiden-South-Holland-Netherlands/Deploy-Experienced-Analyst---Transportation-Management_R-104981",
+  "match": false,
+  "firstSeen": "2026-10-19"
+ },
+ "/job/Ringaskiddy-Cork-Ireland/Deploy-Experienced-Analyst---Production-Logistics_R-104978": {
+  "title": "Deploy Experienced Analyst - Production Logistics",
+  "locs": "Ringaskiddy, Cork, Ireland; Latina, Italy; Leiden, South Holland, Netherlands",
+  "remote": "Hybrid Work",
+  "posted": "Posted Today",
+  "url": "https://jj.wd5.myworkdayjobs.com/en-US/JJ/job/Ringaskiddy-Cork-Ireland/Deploy-Experienced-Analyst---Production-Logistics_R-104978",
+  "match": false,
+  "firstSeen": "2026-10-19"
+ },
+ "/job/West-Chester-Pennsylvania-United-States-of-America/Area-Director-of-Sales--Trauma---New-England_R-090239-1": {
+  "skip": true
+ },
+ "/job/Raynham-Massachusetts-United-States-of-America/Sr-Director--Procurement-Strategy--Digital-and-Process--Orthopedics_R-069648-1": {
+  "title": "Sr. Director, Procurement Strategy, Digital and Process, Orthopedics",
+  "locs": "Raynham, Massachusetts, United States of America; New Brunswick, New Jersey, United States of America; West Chester, Pennsylvania, United States of America; Palm Beach Gardens, Florida, United States of America; Warsaw, Indiana, United States of America",
+  "remote": "Hybrid Work",
+  "posted": "Posted Today",
+  "url": "https://jj.wd5.myworkdayjobs.com/en-US/JJ/job/Raynham-Massachusetts-United-States-of-America/Sr-Director--Procurement-Strategy--Digital-and-Process--Orthopedics_R-069648-1",
+  "match": false,
+  "firstSeen": "2026-10-19"
+ },
+ "/job/Toronto-Ontario-Canada/Transcend-Deployment-Logistics-Manager_R-105844": {
+  "skip": true
+ },
+ "/job/Wien-Austria/Sales-Representative-ETHICON-Endo-Surgery---Energy-im-Gebiet-Tirol---Vorarlberg--m-w-d-_R-105075": {
+  "skip": true
+ },
+ "/job/Wien-Austria/Sales-Representative-Wound-Closure-im-Raum-Wien---Umgebung--m-f-d-_R-105077-1": {
+  "skip": true
+ },
+ "/job/Horsham-Pennsylvania-United-States-of-America/Clinical-Supply-Chain-Summer-Intern_R-099135": {
+  "skip": true
+ },
+ "/job/Leiden-South-Holland-Netherlands/Transcend-Deployment-Logistics-Manager_R-105838": {
+  "skip": true
+ },
+ "/job/Prague-Czechia/Velys-Clinical-Specialist_R-103587": {
+  "skip": true
+ },
+ "/job/Prague-Czechia/Key-Account-Specialist-Immunology_R-105435": {
+  "skip": true
+ },
+ "/job/Beerse-Antwerp-Belgium/QA-Cryo-Supervisor-CAR-T_R-105494": {
+  "skip": true
+ },
+ "/job/Bangalore-Karnataka-India/Technical-Product-Manager--Intercompany---VCM_R-103983": {
+  "skip": true
+ },
+ "/job/Chiyoda-Tokyo-Japan/Director--Business-Technology-Leader--ASPAC_R-103727-1": {
+  "skip": true
+ },
+ "/job/New-Brunswick-New-Jersey-United-States-of-America/Manager--Financial-Information-Systems_R-089548": {
+  "skip": true
+ },
+ "/job/Ringaskiddy-Cork-Ireland/Technology-Sr-Manager--EMEA-Commercial_R-078446-2": {
+  "skip": true
+ },
+ "/job/Raritan-New-Jersey-United-States-of-America/Manager-Ortho-Supply-Chain-Procurement_R-100290": {
+  "skip": true
+ },
+ "/job/Santa-Clara-California-United-States-of-America/Supervisor--Manufacturing---OTTAVA_R-103889-2": {
+  "skip": true
+ },
+ "/job/Raritan-New-Jersey-United-States-of-America/Sr-Mgr-IT-Vendor-Management_R-105249-1": {
+  "skip": true
  }
 }
