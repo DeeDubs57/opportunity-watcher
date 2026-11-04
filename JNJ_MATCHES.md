@@ -1,6 +1,6 @@
 # J&J roles matching your filters
 
-Updated 2026-11-04T03:10:17.348Z
+Updated 2026-11-04T11:29:49.536Z
 
 - [Manager Medical Affairs International (m/f/d)](https://jj.wd5.myworkdayjobs.com/en-US/JJ/job/Hamburg-Hamburg-Germany/Manager-Medical-Affairs-International_R-097754) | Hamburg, Hamburg, Germany; Wokingham, Berkshire, United Kingdom; Diegem, Flemish Brabant, Belgium | Fully Remote
 - [Medical Affairs Specialist](https://jj.wd5.myworkdayjobs.com/en-US/JJ/job/Brussels-Brussels-Capital-Region-Belgium/Medical-Affairs-Specialist_R-018387) | Brussels, Brussels-Capital Region, Belgium; Dublin, Ireland; GB025 ACT London, UK; DK005 Copenhagen; SE007 Stockholm; Paris, Île-de-France, France; London, United Kingdom; NO001 Oslo; IE006 Airton; NL017 Roden; Limerick, Ireland; Milano, Italy; CZ005 Walterovo Namesti; FR015 Rungis; FI001 Espoo; Pomezia, Roma, Italy; GB019 Bessemer; IT002 Milano; IT004 Pratica di Mare   Pomezia; IE009 Janssen Cilag Ltd | Fully Remote
@@ -8,3 +8,4 @@ Updated 2026-11-04T03:10:17.348Z
 - [Stagiaire - Professional Education Vision Care H/F](https://jj.wd5.myworkdayjobs.com/en-US/JJ/job/Issy-les-Moulineaux-France/Stagiaire---Professional-Education-Vision-Care-H-F_R-104733) | Issy-les-Moulineaux, France | Fully Onsite
 - [Associate Director, Process & Digital](https://jj.wd5.myworkdayjobs.com/en-US/JJ/job/Zug-Switzerland/Associate-Director--Process---Digital_R-106959-1) | Zug, Switzerland; Issy-les-Moulineaux, France; High Wycombe, Buckinghamshire, United Kingdom; Beerse, Antwerp, Belgium | Hybrid Work
 - [Associate Director, Digital Change Lead](https://jj.wd5.myworkdayjobs.com/en-US/JJ/job/Zug-Switzerland/Associate-Director--Digital-Change-Lead_R-106964-1) | Zug, Switzerland; Issy-les-Moulineaux, France; High Wycombe, Buckinghamshire, United Kingdom; Beerse, Antwerp, Belgium | Hybrid Work
+- [Professional Education Lead](https://jj.wd5.myworkdayjobs.com/en-US/JJ/job/Issy-les-Moulineaux-France/Professional-Education-Lead_R-108578-1) | Issy-les-Moulineaux, France | Hybrid Work
