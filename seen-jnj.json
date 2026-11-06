@@ -11206,5 +11206,38 @@
  },
  "/job/Horsham-Pennsylvania-United-States-of-America/E2E-Supply-Planner_R-108785-1": {
   "skip": true
+ },
+ "/job/Beijing-China/XMLNAME----_R-109471": {
+  "skip": true
+ },
+ "/job/Beijing-China/Marketing-Manager-Lung-Cancer_R-109478": {
+  "title": "Marketing Manager-Lung Cancer",
+  "locs": "Beijing, China; Shanghai, China",
+  "remote": "Hybrid Work",
+  "posted": "Posted Today",
+  "url": "https://jj.wd5.myworkdayjobs.com/en-US/JJ/job/Beijing-China/Marketing-Manager-Lung-Cancer_R-109478",
+  "match": false,
+  "firstSeen": "2026-11-06"
+ },
+ "/job/Beijing-China/RPM-Leader-Lung-Cancer--_R-109480": {
+  "skip": true
+ },
+ "/job/Singapore-Singapore/Product-Specialist--Surgery_R-108977": {
+  "skip": true
+ },
+ "/job/Porto-Salvo-Portugal/Sales-Specialist-Neuroscience---North_R-109339-1": {
+  "skip": true
+ },
+ "/job/Dubai-United-Arab-Emirates/Sales-Manager-Immunology--UAE_R-109276": {
+  "skip": true
+ },
+ "/job/Taichung-City-Taiwan/Innovative-Medicine-Executive-Account-Specialist-Lung-Cancer-Central_R-108556": {
+  "skip": true
+ },
+ "/job/Kaohsiung-City-Taiwan/Innovative-Medicine-Executive-Account-Specialist-Lung-Cancer-South_R-108555-1": {
+  "skip": true
+ },
+ "/job/West-Chester-Pennsylvania-United-States-of-America/Manager--R-D--Clinical-Research--Med-Affairs_R-078298": {
+  "skip": true
  }
 }
